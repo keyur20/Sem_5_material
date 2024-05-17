@@ -1,0 +1,72 @@
+
+
+To simplify things we will aggregate everything during a year into single  year-end number.   
+
+
+
+
+Bottled water costs $7,150 per year (24,000 bottles /1872 bottles per pallet x $550/pallet) with a little rounding up.
+
+For the Britta Hydration station the annual operating costs are:
+
+Water for the Britta Hydration station: $1,056 per year (3,300 gallons at $8.00 per 25 gallons)
+
+Water for dishwasher: $240.00
+
+2 filters per year: $100
+
+Stainless steel water bottles for employees: $2,625
+
+Electricity for heating water and dishwasher: $47.80
+
+TOTAL ANNUAL COSTS: $4068.80
+
+It is clear that there are annual savings from switching to the stainless steel bottles, but are they enough to offset the purchase price of the Hydration Station?  That is what we will examine with our NPV analysis.
+
+q1
+Report the outlay and savings for year 0 tbrough year 5
+give me a table for this consisting of columns (All Costs and Computation of Savings,Initial Investment,Annual Cost of Bottled Water,Annual Cost of Reusable Stainless Steel Bottle Alternative,Annual Outlay or Savings)
+Evaluate whether investing in the hydration station makes financial sense using a 6% discount rate and a 5-year horizon (assumes everything starts over after 5 years of use). What other factors besides cost savings need to be considered?
+All costs and comutation	Initial investment	Annual cost of bottled water	Annual cost of reusable satinless	Annual outlay or savings
+0	-2300			
+1		7150	4068	3082
+2		7150	4068	3082
+3		7150	4068	3082
+4		7150	4068	3082
+5		7150	4068	3082
+				15410
+
+
+
+https://www.coursera.org/learn/sustainable-business/peer/nzj3K/hydration-station-financial-analysis/review/8brMSl6wEe6BsQ6_QNRR6Q
+
+
+
+https://www.coursera.org/learn/sustainable-business/peer/zHp9b/externality-examples/review/PtdL217mEe6iTwphDSnZ-w
+
+
+
+
+
+This assignment is based on our Systems Thinking lecture.  When my wife and I invested in the solar water heating system we did some calculations about savings to make sure they justified the outlay.  We live in southwestern Colorado and have a lot of sunshine all year, so estimated our savings based on sunny days and the rating of the solar water heating system.  Our estimates were based on everyone in the house (two adults and a teenage daughter) using hot water as they had been; that is, we assumed that our water use habits wouldn't change.  The table shows our estimates of savings on our natural gas bill (used to heat water in our water heater) and our water usage.  The numbers are monthly averages for an entire year
+
+
+               Estimated savings       Actual savings
+
+Natural Gas     $30.00 /month            $25.00
+
+Water Use        0                       -$5.00
+
+We cut our natural gas bill almost in half, saving $24.00 a month or about $300 per year, but our water usage went up.  We didn't expect this.  We thought there would be no change.  
+Q2) What did we miss when we made our estimates?  What does the fact that more water is being used suggest?
+
+
+
+
+
+https://www.coursera.org/learn/sustainable-business/peer/pxTMM/solar-water-heating-and-systems-thinking/review/i1Pv3F77Ee67XhJ0TBzdDQ
+
+
+
+
+

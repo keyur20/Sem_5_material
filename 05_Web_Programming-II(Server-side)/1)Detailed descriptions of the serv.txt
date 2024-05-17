@@ -1,0 +1,13 @@
+1)Detailed descriptions of the services your healthcare management                   system offers.
+2)Information about your company or organization.
+   Mission and vision statements.
+3)Patient Portal:User registration and login functionality.
+		 Patient profile management.
+                 Appointment scheduling and management.
+4)Directory of healthcare professionals using your system.
+Profiles of doctors, nurses, and other staff members.
+Specializations and qualifications.
+5)Appointment Booking:A dedicated page for patients to book appointments with healthcare providers and its Availability calendars.
+6)Contact Us:Contact form for inquiries and feedback.
+Phone numbers and email addresses.
+7)Online payment options for medical bills.

@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+/* CSS for the Doctor Login Button */
+.doctor {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #46b34a99; /* Green color */
+    color: var(--light-color);
+    text-decoration: none;
+    border: black solid;
+    border-radius: 19px;
+    font-size: 18px;
+    font-weight:500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: background-color 0.3s, box-shadow 0.3s, transform 0.2s;
+    border-color: #087a38;
+    
+}
+
+.doctor:hover {
+    background-color: #73d978; 
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); /* Add a subtle shadow on hover */
+    transform: translateY(-3px); /* Lift the button slightly on hover */
+    border-color: rgb(30, 30, 31);
+}
+
+
+.doctor:focus {
+    outline: none; 
+}
+
+
+/* login page  */
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #b04444;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    text-align: center;
+    color: #4CAF50; /* Green color */
+}
+
+form {
+    text-align: left;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: #45A049; /* Darker green on hover */
+}
+
+.error-message {
+    color: #ff0000; /* Red color for error messages */
+    text-align: center;
+}

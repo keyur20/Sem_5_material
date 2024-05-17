@@ -1,0 +1,29 @@
+
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+  .block1, .block2, .block3, .block4 {
+    border: 2px solid black;
+    padding: 20px;
+  }
+  table {
+    width: 100%;
+    border: solid 2px black;
+  }
+  th, td {
+    border: 2px solid black;
+    padding: 5px;
+  }
+  h2 {
+    margin-top: 20px;
+  }
+  form {
+    display: block;
+    margin-bottom: 20px;
+  }
+  label, input {
+    display: block;
+    margin-bottom: 10px;
+  }

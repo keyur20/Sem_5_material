@@ -1,0 +1,33 @@
+
+
+
+1. Topic 22
+2. Topic 8
+3. Topic 27
+16010421073-Keyur Patel
+16010421067-Kushal Panchal
+16010421068-Harsh Pandey
+
+Topic:22
+Design Form using Material UI considering following points
+Use Material UI components like radio buttons, checkboxes, and date pickers to improve usability
+Use label form inputs and provide placeholder text to guide users
+Use Material UI components to ensure that form fields are accessible to all users
+Validate user input and display errors using Material UI components
+Provide interactive examples using code snippets and live previews
+
+Topic:8
+Responsive Components in Material UI
+Mention that frameworks like Material UI provide responsive components that adapt to different screen
+sizes and orientations. These components make it easier to implement responsive design without starting
+from scratch.
+Provide interactive examples using code snippets and live previews ( Minimum Three Responsive
+Components)
+
+Topic:27
+Data visualizations components in Material UI
+Chart.js:
+Line, Bar, Pie: Chart components to create various types of charts.
+XAxis, YAxis: Configuration options for the chart axes.
+Provide interactive examples using code snippets and live previews
+ 

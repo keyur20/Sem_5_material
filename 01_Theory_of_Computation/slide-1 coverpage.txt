@@ -1,0 +1,12 @@
+slide-1 coverpage
+slide-2 index
+slide-3 compiler phases
+slide-4
+slide-5(context free grammer explanation with example)
+slide-6(context free grammer explanation with example)
+slide-7(types of parsers algorithm chart)
+slide-8(LL OR LR)
+slide-9(LL or LR)
+slide-10(Applications and challenges)
+slide-11(Applications and challenges)
+slide-12(Thank You)
